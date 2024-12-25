@@ -8,7 +8,7 @@ public struct MyLibrary {
         helloWorld()
     }
     
-    public func helloWorld() {
+    private func helloWorld() {
         print("Hello, World!")
     }
 }
